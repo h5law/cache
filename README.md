@@ -86,6 +86,7 @@ cache/
 │   └── metrics.go
 └── workload
     ├── generator.go
+    ├── generator_test.go
     └── operation.go
 ```
 
