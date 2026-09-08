@@ -1,0 +1,16 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Coverage
+*.out
+
+# Vendors
+vendor/
+
+# Workspace
+go.work
